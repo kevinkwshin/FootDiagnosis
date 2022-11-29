@@ -4,7 +4,7 @@
 ### 2. Set GPU in notebook setting (click runtime in menu, set "GPU" and save)
  ![image](https://user-images.githubusercontent.com/38489569/204458864-ab27f43a-db01-494c-8df0-3b976330cf48.png)
  
-### 3. Run code
+### 3. Run code (Press "Shift + Enter" key will run each code block)
 - "1.Load library",
 - "2.Load pretrained model"
 - "3.Prepare test dataset"
