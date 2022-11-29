@@ -9,5 +9,7 @@
 - "2.Load pretrained model"
 - "3.Prepare test dataset"
 - "4. Inference result"
-- 
-### 4. If additional image to diagnosis, upload image "/content/FootDiagnosis/input_data" and run the code from "3.Prepare test dataset"
+
+### 4. If you have additional image to diagnosis
+- upload image "/content/FootDiagnosis/input_data"
+- run the code from "3.Prepare test dataset"
