@@ -7,7 +7,8 @@
  - 2. Click "Change runtime type"
  - 3. Set Hardware accelerator as "GPU" and click "Save"
  
- ![image](https://user-images.githubusercontent.com/38489569/204458864-ab27f43a-db01-494c-8df0-3b976330cf48.png)
+ ![image](https://user-images.githubusercontent.com/38489569/204683241-c0c45436-cdb4-499c-8550-5f14cf23e630.png)
+
  
 ### 2. Run the code (Pressing "Shift + Enter" key will run each code block)
 - If a warning message appeared, just click "Run anyway"
