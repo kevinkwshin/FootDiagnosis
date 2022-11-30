@@ -24,4 +24,4 @@
 - ③ Drag and drop your foot X-ray images to "FootDiagnosis/input_data"
 - ④ Run the code from "3.Prepare test dataset" (By using "Shift + Enter")
 
-![image](https://user-images.githubusercontent.com/38489569/204683888-2953897b-e941-4577-a072-5c52cc361cd7.png)
+![image](https://user-images.githubusercontent.com/38489569/204684189-e7894aec-b1d5-41cb-ae2e-2090c7422fd0.png)
