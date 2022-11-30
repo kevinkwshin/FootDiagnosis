@@ -1,5 +1,7 @@
 # To run this code
 
+### 0. Move to Google Colab by pressing this link (https://colab.research.google.com/github/kevinkwshin/FootDiagnosis/blob/main/inference_final.ipynb) 
+
 ### 1. Setting GPU in notebook setting (refer to below image)
  - 1. Click "Runtime" in menu
  - 2. Click "change runtime type"
