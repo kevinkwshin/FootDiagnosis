@@ -3,9 +3,9 @@
 ### 0. Move to Google Colab by pressing this link (https://colab.research.google.com/github/kevinkwshin/FootDiagnosis/blob/main/inference_final.ipynb) 
 
 ### 1. Setting GPU in notebook setting (refer to below image)
- - Click "Runtime" in menu
- - Click "Change runtime type"
- - Set Hardware accelerator as "GPU" and click "Save"
+ - 1.Click "Runtime" in menu
+ - 2.Click "Change runtime type"
+ - 3.Set Hardware accelerator as "GPU" and click "Save"
  
  ![image](https://user-images.githubusercontent.com/38489569/204458864-ab27f43a-db01-494c-8df0-3b976330cf48.png)
  
