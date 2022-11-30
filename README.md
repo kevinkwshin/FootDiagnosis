@@ -1,4 +1,5 @@
-# To run this code
+# FootDiagnosis
+## To run this code
 
 ### 0. Move to Google Colab by pressing this link (https://colab.research.google.com/github/kevinkwshin/FootDiagnosis/blob/main/inference_final.ipynb) 
 
