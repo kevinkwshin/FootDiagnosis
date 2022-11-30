@@ -12,10 +12,10 @@
 ### 2. Run the code (Pressing "Shift + Enter" key will run each code block)
 - If a warning message appeared, just click "Run anyway"
 - There are 4 session in this codes;
-- 1.Load library
-- 2.Load pretrained model
-- 3.Prepare test dataset
-- 4.Inference result
+- "1.Load library"
+- "2.Load pretrained model"
+- "3.Prepare test dataset"
+- "4.Inference result"
 
 ### 3. If you have additional image to diagnosis (refer to below image)
 - Click folder button on the bottom of left sidebar
