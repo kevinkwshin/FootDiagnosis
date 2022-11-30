@@ -19,9 +19,9 @@
 - "4.Inference result"
 
 ### 3. If you have additional image to diagnosis (refer to below image)
-- Click folder button on the bottom of left sidebar
-- Click "FootDiagnosis" to expand the tree structure
-- Drag and drop your foot X-ray images to "FootDiagnosis/input_data"
-- Run the code from "3.Prepare test dataset" (By using "Shift + Enter")
+- ① Click folder button on the bottom of left sidebar
+- ② Click "FootDiagnosis" to expand the tree structure
+- ③ Drag and drop your foot X-ray images to "FootDiagnosis/input_data"
+- ④ Run the code from "3.Prepare test dataset" (By using "Shift + Enter")
 
 ![image](https://user-images.githubusercontent.com/38489569/204683888-2953897b-e941-4577-a072-5c52cc361cd7.png)
